@@ -323,3 +323,4 @@ To generate the coverage:
 4. Build the coverage report
   * `make coverage`
 The coverage report will be in the `coverage` directory within the build.
+
